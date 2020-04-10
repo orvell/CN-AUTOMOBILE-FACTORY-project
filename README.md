@@ -1,6 +1,4 @@
 # CN-project-file
-GROUP MEMBERS -
- 
 ORVELL - 8671
 
 SLOAN - 8659
